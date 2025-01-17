@@ -17,7 +17,7 @@ File: Navigation CSS
   background-color: #232323;
   border-bottom: 1px solid #232323;
   height: 900px; /* Adjust the height value as needed */
-  line-height: 50px; /* Center text vertically if needed */
+  line-height: 900px; /* Center text vertically if needed */
 }
 /* ----------------------------------------------Column Navigation------------------------------------- */
 
