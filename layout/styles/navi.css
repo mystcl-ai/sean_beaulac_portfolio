@@ -23,6 +23,7 @@ File: Navigation CSS
 
 #column .subnav {
   display: block;
+  height: 900px; /* Replace 300px with the desired height */
   width: 250px;
   padding: 25px;
   background-color: #1F1F1F;
